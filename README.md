@@ -39,8 +39,7 @@ An **interactive travel booking platform** with secure payments and multi-langua
 ## 📈 GitHub Stats & Activity  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohdArman123&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohdArman123&layout=compact&theme=radical)  
-
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohdArman123&layout=compact&theme=radical) -->
 ---
 
 ## 📩 Let’s Connect!  
