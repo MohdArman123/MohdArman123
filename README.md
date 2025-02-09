@@ -3,8 +3,8 @@
 
 # 🚀 Mohd Arman – Full-Stack Developer & AI/ML Engineer  
 
-![Profile Banner]([![GitHub Skyline](https://skyline.github.com/MohdArman123/2024)](https://skyline.github.com/MohdArman123/2024)
-)  
+[![GitHub Skyline](https://skyline.github.com/MohdArman123/2024)](https://skyline.github.com/MohdArman123/2024)
+ 
 
 👋 Hi there! I'm **Mohd Arman**, a passionate **Full-Stack Developer & AI/ML Engineer** with expertise in **building scalable applications and AI-driven solutions**.  
 
