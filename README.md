@@ -3,6 +3,8 @@
 
 # 🚀 Mohd Arman – Full-Stack Developer & AI/ML Engineer  
 
+![Profile Views](https://komarev.com/ghpvc/?username=MohdArman123&color=blue)
+
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohdArman123&theme=react-dark)
  
 
