@@ -1,11 +1,5 @@
-## Hi there 👋
-
-
 # 🚀 Mohd Arman – Full-Stack Developer & AI/ML Engineer  
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohdArman123&theme=react-dark)
  
-
 👋 Hi there! I'm **Mohd Arman**, a passionate **Full-Stack Developer & AI/ML Engineer** with expertise in **building scalable applications and AI-driven solutions**.  
 
 ## 🔹 About Me  
