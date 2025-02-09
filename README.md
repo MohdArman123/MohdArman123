@@ -3,7 +3,7 @@
 
 # 🚀 Mohd Arman – Full-Stack Developer & AI/ML Engineer  
 
-![Profile Banner](<img src="https://github.com/MohdArman123.png" width="150" height="150" style="border-radius: 50%;" alt="Mohd Arman">
+![Profile Banner](<img src="https://github.com/MohdArman123" width="150" height="150" style="border-radius: 50%;" alt="Mohd Arman">
 )  
 
 👋 Hi there! I'm **Mohd Arman**, a passionate **Full-Stack Developer & AI/ML Engineer** with expertise in **building scalable applications and AI-driven solutions**.  
