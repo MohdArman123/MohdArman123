@@ -4,9 +4,9 @@
 
 ## 🔹 About Me  
 - 🏆 **1+ years of experience** in **Full-Stack Development & AI/ML**  
-- 🛠 Specializing in **React, Node.js, Python, MongoDB, AWS, and AI-powered applications**  
+- 🛠 Specializing in **React, Node.js, Python, FastApi, MongoDB, AWS, and AI-powered applications**  
 - 🎯 Focused on **performance optimization, cloud solutions, and automation**  
-- 👯 Open to **collaborations** on **exciting AI and web development projects**  
+- 👯 Open to **collaborations** on **exciting AI | web development projects | APIs**  
 
 ---
 
