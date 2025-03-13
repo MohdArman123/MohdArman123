@@ -15,7 +15,7 @@
 | **Frontend**      | **Backend**        | **Databases**      | **AI/ML & Data Science** | **DevOps & Cloud** |  
 |------------------|-------------------|-------------------|-------------------------|-------------------|  
 | React.js, Redux | Node.js, Express.js | MongoDB, PostgreSQL | Machine Learning, NLP | AWS (EC2, S3, Lambda) |  
-| JavaScript, TypeScript | Flask, REST APIs | SQL, Firebase | Deep Learning, LLaMA-Index | Docker, Git, CI/CD |  
+| Python, JavaScript,  TypeScript | Flask, REST APIs | SQL, Firebase | Deep Learning, LLaMA-Index | Docker, Git, CI/CD |  
 | HTML, CSS, Tailwind | FastAPI, LangChain | SQLite | Transformers, Hugging Face | Netlify, GitHub Actions |  
 
 ---
