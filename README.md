@@ -3,7 +3,7 @@
 👋 Hi there! I'm **Mohd Arman**, a passionate **Full-Stack Developer & AI/ML Engineer** with expertise in **building scalable applications and AI-driven solutions**.  
 
 ## 🔹 About Me  
-- 🏆 **1+ years of experience** in **Full-Stack Development & AI/ML**  
+- 🏆 **2+ years of experience** in **Full-Stack Development & AI/ML**  
 - 🛠 Specializing in **React, Node.js, Python, FastApi, MongoDB, AWS, and AI-powered applications**  
 - 🎯 Focused on **performance optimization, cloud solutions, and automation**  
 - 👯 Open to **collaborations** on **exciting AI | web development projects | APIs**  
