@@ -4,7 +4,7 @@
 
 ## 🔹 About Me  
 - 🏆 **2+ years of experience** in **Full-Stack Development & AI/ML**  
-- 🛠 Specializing in **React, Node.js, Python, FastApi, MongoDB, AWS, and AI-powered applications**  
+- 🛠 Specializing in **Python, FastApi, MongoDB, AWS, React, Node.js, and AI-powered applications**  
 - 🎯 Focused on **performance optimization, cloud solutions, and automation**  
 - 👯 Open to **collaborations** on **exciting AI | web development projects | APIs**  
 
@@ -15,7 +15,7 @@
 | **Frontend**      | **Backend**        | **Databases**      | **AI/ML & Data Science** | **DevOps & Cloud** |  
 |------------------|-------------------|-------------------|-------------------------|-------------------|  
 | React.js, Redux | Node.js, Express.js | MongoDB, PostgreSQL | Machine Learning, NLP | AWS (EC2, S3, Lambda) |  
-| Python, JavaScript,  TypeScript | Flask, REST APIs | SQL, Firebase | Deep Learning, LLaMA-Index | Docker, Git, CI/CD |  
+| Python, Fastapi, JavaScript,  TypeScript | Flask, REST APIs | SQL, Firebase | Deep Learning, LLaMA-Index | Docker, Git, CI/CD |  
 | HTML, CSS, Tailwind | FastAPI, LangChain | SQLite | Transformers, Hugging Face | Netlify, GitHub Actions |  
 
 ---
