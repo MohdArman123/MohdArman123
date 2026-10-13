@@ -1,4 +1,4 @@
-# 🚀 Mohd Arman – SOftware Developer & AI/ML Engineer  
+# 🚀 Mohd Arman – Software Developer & AI/ML Engineer  
  
 👋 Hi there! I'm **Mohd Arman**, a passionate **Full-Stack Developer & AI/ML Engineer** with expertise in **building scalable applications and AI-driven solutions**.  
 
